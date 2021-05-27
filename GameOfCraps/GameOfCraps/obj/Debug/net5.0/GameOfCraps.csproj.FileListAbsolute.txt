@@ -1,0 +1,15 @@
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/GameOfCraps.csprojAssemblyReference.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/GameOfCraps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/GameOfCraps.AssemblyInfoInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/GameOfCraps.AssemblyInfo.cs
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/GameOfCraps.csproj.CoreCompileInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/bin/Debug/net5.0/GameOfCraps.deps.json
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/bin/Debug/net5.0/GameOfCraps.runtimeconfig.json
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/bin/Debug/net5.0/GameOfCraps.runtimeconfig.dev.json
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/bin/Debug/net5.0/GameOfCraps.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/bin/Debug/net5.0/ref/GameOfCraps.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/bin/Debug/net5.0/GameOfCraps.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/GameOfCraps.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/ref/GameOfCraps.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/GameOfCraps.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/GameOfCraps/GameOfCraps/obj/Debug/net5.0/GameOfCraps.genruntimeconfig.cache
